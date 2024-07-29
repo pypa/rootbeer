@@ -52,3 +52,6 @@
 [submodule "_zipp"]
 	path = _zipp
 	url = gh://jaraco/zipp
+[submodule "_setuptools_scm"]
+	path = _setuptools_scm
+	url = gh://pypa/setuptools_scm
