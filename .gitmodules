@@ -1,0 +1,54 @@
+[submodule "_setuptools"]
+	path = _setuptools
+	url = gh://pypa/setuptools
+[submodule "_autocommand"]
+	path = _autocommand
+	url = gh://Lucretiel/autocommand
+[submodule "jaraco.text"]
+	path = jaraco.text
+	url = gh://jaraco/jaraco.text
+[submodule "jaraco.context"]
+	path = jaraco.context
+	url = gh://jaraco/jaraco.context
+[submodule "jaraco.functools"]
+	path = jaraco.functools
+	url = gh://jaraco/jaraco.functools
+[submodule "backports.tarfile"]
+	path = backports.tarfile
+	url = gh://jaraco/backports.tarfile
+[submodule "_importlib_metadata"]
+	path = _importlib_metadata
+	url = gh://python/importlib_metadata
+[submodule "_importlib_resources"]
+	path = _importlib_resources
+	url = gh://python/importlib_resources
+[submodule "_inflect"]
+	path = _inflect
+	url = gh://jaraco/inflect
+[submodule "more-itertools"]
+	path = more-itertools
+	url = gh://more-itertools/more-itertools
+[submodule "ordered-set"]
+	path = ordered-set
+	url = gh://rspeer/ordered-set
+[submodule "_packaging"]
+	path = _packaging
+	url = gh://pypa/packaging
+[submodule "_platformdirs"]
+	path = _platformdirs
+	url = gh://platformdirs/platformdirs
+[submodule "_tomli"]
+	path = _tomli
+	url = gh://hukkin/tomli
+[submodule "_typeguard"]
+	path = _typeguard
+	url = gh://agronholm/typeguard
+[submodule "_typing_extensions"]
+	path = _typing_extensions
+	url = gh://python/typing_extensions
+[submodule "_wheel"]
+	path = _wheel
+	url = gh://pypa/wheel
+[submodule "_zipp"]
+	path = _zipp
+	url = gh://jaraco/zipp
