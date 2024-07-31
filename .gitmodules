@@ -55,3 +55,6 @@
 [submodule "_setuptools_scm"]
 	path = _setuptools_scm
 	url = gh://pypa/setuptools_scm
+[submodule "_flit"]
+	path = _flit
+	url = gh://pypa/flit
