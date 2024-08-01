@@ -1,60 +1,60 @@
 [submodule "_setuptools"]
 	path = _setuptools
-	url = gh://pypa/setuptools
+	url = https://github.com/pypa/setuptools
 [submodule "_autocommand"]
 	path = _autocommand
-	url = gh://Lucretiel/autocommand
+	url = https://github.com/Lucretiel/autocommand
 [submodule "jaraco.text"]
 	path = jaraco.text
-	url = gh://jaraco/jaraco.text
+	url = https://github.com/jaraco/jaraco.text
 [submodule "jaraco.context"]
 	path = jaraco.context
-	url = gh://jaraco/jaraco.context
+	url = https://github.com/jaraco/jaraco.context
 [submodule "jaraco.functools"]
 	path = jaraco.functools
-	url = gh://jaraco/jaraco.functools
+	url = https://github.com/jaraco/jaraco.functools
 [submodule "backports.tarfile"]
 	path = backports.tarfile
-	url = gh://jaraco/backports.tarfile
+	url = https://github.com/jaraco/backports.tarfile
 [submodule "_importlib_metadata"]
 	path = _importlib_metadata
-	url = gh://python/importlib_metadata
+	url = https://github.com/python/importlib_metadata
 [submodule "_importlib_resources"]
 	path = _importlib_resources
-	url = gh://python/importlib_resources
+	url = https://github.com/python/importlib_resources
 [submodule "_inflect"]
 	path = _inflect
-	url = gh://jaraco/inflect
+	url = https://github.com/jaraco/inflect
 [submodule "more-itertools"]
 	path = more-itertools
-	url = gh://more-itertools/more-itertools
+	url = https://github.com/more-itertools/more-itertools
 [submodule "ordered-set"]
 	path = ordered-set
-	url = gh://rspeer/ordered-set
+	url = https://github.com/rspeer/ordered-set
 [submodule "_packaging"]
 	path = _packaging
-	url = gh://pypa/packaging
+	url = https://github.com/pypa/packaging
 [submodule "_platformdirs"]
 	path = _platformdirs
-	url = gh://platformdirs/platformdirs
+	url = https://github.com/platformdirs/platformdirs
 [submodule "_tomli"]
 	path = _tomli
-	url = gh://hukkin/tomli
+	url = https://github.com/hukkin/tomli
 [submodule "_typeguard"]
 	path = _typeguard
-	url = gh://agronholm/typeguard
+	url = https://github.com/agronholm/typeguard
 [submodule "_typing_extensions"]
 	path = _typing_extensions
-	url = gh://python/typing_extensions
+	url = https://github.com/python/typing_extensions
 [submodule "_wheel"]
 	path = _wheel
-	url = gh://pypa/wheel
+	url = https://github.com/pypa/wheel
 [submodule "_zipp"]
 	path = _zipp
-	url = gh://jaraco/zipp
+	url = https://github.com/jaraco/zipp
 [submodule "_setuptools_scm"]
 	path = _setuptools_scm
-	url = gh://pypa/setuptools_scm
+	url = https://github.com/pypa/setuptools_scm
 [submodule "_flit"]
 	path = _flit
-	url = gh://pypa/flit
+	url = https://github.com/pypa/flit
