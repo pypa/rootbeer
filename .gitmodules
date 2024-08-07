@@ -58,3 +58,6 @@
 [submodule "_flit"]
 	path = _flit
 	url = https://github.com/pypa/flit
+[submodule "coherent/build"]
+	path = coherent/build
+	url = gh://coherent-oss/coherent.build
